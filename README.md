@@ -16,5 +16,3 @@ Attendance checker and cheat detector
 Python 3.x
 OpenCV
 Dlib or Face Recognition Library
-Mediapipe (optional for eye and head tracking)
-Flask / Streamlit (for UI if applicable)
