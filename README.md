@@ -10,6 +10,7 @@ Attendance checker and cheat detector
 ⏱ Real-Time Monitoring: Provides continuous evaluation during the session.
 💾 Logging System: Saves when is the last time student entered the exam and out.
 
+[!image](assets/menu.png)
 
 🚀 Technologies Used:
 
