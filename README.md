@@ -1,12 +1,12 @@
 # face-recognition_cheat-detection
 
-Attendance checker and cheat detector
+This project is an attendance and cheating detection system for exam environments. Using facial recognition and body movement tracking, it helps ensure exam integrity by identifying registered users and detecting potential imposters or outsiders in real-time.
 
 🔍 Features:
 
+🎫 User Registration: Allows new users to register and be flagged as outsiders or imposters based on their relevance to the school.
 🎯 Face Recognition: Verifies user identity using a pretrained facial recognition model.
-👀 Cheat Detection: Monitors eye movement, head position, and multiple face presence.
-🕵️‍♂️ Multiple Face Alerts: Detects and interprets if person behaves suspiciously.
+👀 Cheat Detection: Monitor suspicious body movements. Detects and interprets if person behaves suspiciously.
 ⏱ Real-Time Monitoring: Provides continuous evaluation during the session.
 💾 Logging System: Saves when is the last time student entered the exam and out.
 
